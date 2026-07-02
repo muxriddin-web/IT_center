@@ -1,17 +1,16 @@
-
 const express = require('express');
 const dotenv = require('dotenv');
 const path = require('path');
 const cors = require('cors');
-// const connectDB = require('./config/db');
+// const connectDB = require('./config/db'); // Vaqtincha o'chirilgan
 
 // ENV
-// dotenv.config();
+dotenv.config(); // Atrof-muhit o'zgaruvchilari faollashtirildi
 
 // MongoDB
-// connectDB();
+// connectDB(); // Vaqtincha o'chirilgan
 
-// const app = express();
+const app = express(); // To'g'rilandi (Ochib qo'yildi)
 
 // Middlewares
 app.use(cors());
