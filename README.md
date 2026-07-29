@@ -150,19 +150,15 @@ Fully optimized for:
 
 ```text
 IT_center/
+backend/
 │
-├── index.html
-├── style.css
-├── script.js
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   ├── fonts/
-│   └── videos/
-│
-├── README.md
-└── LICENSE
+├── config/
+├── controllers/
+├── models/
+├── public/
+├── routes/
+├── package.json
+└── server.js
 ```
 
 ---
