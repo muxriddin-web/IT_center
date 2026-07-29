@@ -278,4 +278,4 @@ It helps the project grow and motivates future development.
 
 ---
 
-## ❤️ Made with HTML, CSS & JavaScript
+## ❤️ Made with HTML, CSS, JavaScript, Node.js, Express.js & MongoDB
