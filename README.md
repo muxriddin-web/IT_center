@@ -56,8 +56,12 @@ Optimized HTML, CSS, and JavaScript provide fast loading speeds and smooth user 
 | Technology | Purpose |
 |------------|----------|
 | HTML5 | Structure & Semantic Layout |
-| CSS3 | Styling, Responsive Design & Animations |
-| JavaScript (ES6+) | User Interaction & Dynamic Features |
+| CSS3 | Styling & Responsive Design |
+| JavaScript (ES6+) | Frontend Logic |
+| Node.js | Backend Runtime |
+| Express.js | REST API |
+| MongoDB | Database |
+| Mongoose | Database Modeling |
 
 ---
 
