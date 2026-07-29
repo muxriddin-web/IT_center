@@ -87,17 +87,45 @@ cd IT_center
 
 ---
 
-## Run the Website
+## Install Dependencies
 
-Simply open:
+```bash
+cd backend
+npm install
+```
+
+---
+
+## Configure Environment Variables
+
+Create a `.env` file inside the backend directory.
+
+Example:
+
+```env
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+```
+
+---
+
+## Start the Backend Server
+
+```bash
+npm run dev
+```
+
+---
+
+## Run the Frontend
+
+Open
 
 ```text
 index.html
 ```
 
-in your favorite browser.
-
-No installation or server setup required.
+in your browser.
 
 ---
 
