@@ -8,13 +8,17 @@ Whether you're promoting an IT academy, coding bootcamp, or technology training 
 
 # ✨ Features
 
-## 🏫 Modern Educational Website
+## 🔐 Backend Integration
 
-A professional landing page designed for IT education and technology training centers.
+A complete backend built with Node.js and Express.js handles application logic and API requests.
 
-## 📚 Educational Services
+## 🗄️ MongoDB Database
 
-Showcase programming courses, learning programs, and educational services with an attractive layout.
+Store application data securely using MongoDB and Mongoose.
+
+## 🌐 REST API
+
+Backend provides scalable RESTful APIs for future frontend integration.
 
 ## 📱 Responsive Design
 
