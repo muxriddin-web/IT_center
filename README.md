@@ -185,16 +185,27 @@ Fully optimized for:
 # 📂 Project Structure
 
 ```text
+```text
 IT_center/
-backend/
 │
-├── config/
-├── controllers/
-├── models/
-├── public/
-├── routes/
-├── package.json
-└── server.js
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── assets/
+│
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── public/
+│   ├── package.json
+│   └── server.js
+│
+├── README.md
+└── LICENSE
+```
 ```
 
 ---
