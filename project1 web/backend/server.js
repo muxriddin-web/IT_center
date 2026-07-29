@@ -10,7 +10,7 @@ dotenv.config(); // Atrof-muhit o'zgaruvchilari faollashtirildi
 // MongoDB
 // connectDB(); // Vaqtincha o'chirilgan
 
-const app = express(); // To'g'rilandi (Ochib qo'yildi)
+const app = express(); // To'g'rilanmadi (Ochib qo'yildi)
 
 // Middlewares
 app.use(cors());
