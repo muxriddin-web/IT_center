@@ -169,16 +169,12 @@ Fully optimized for:
 
 # 🌟 Future Roadmap
 
-- [ ] 🎓 Course Details Pages
-- [ ] 📝 Student Registration Form
-- [ ] 👨‍🏫 Instructor Profiles
-- [ ] 📅 Course Schedule
-- [ ] 💬 Live Chat Support
-- [ ] 🌙 Dark / Light Mode
-- [ ] 🌍 Multi-language Support
-- [ ] 📊 Student Dashboard
-- [ ] 🎥 Video Lessons
-- [ ] ☁️ Backend Integration
+☁️ Cloud Deployment
+👤 Authentication
+📊 Admin Dashboard
+📅 Appointment API
+📧 Email Notifications
+🗄️ Database Optimization
 
 ---
 
