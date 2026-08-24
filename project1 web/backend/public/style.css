@@ -660,8 +660,6 @@ button[type="submit"] {
 	color: rgba(255, 255, 255, 0.6);
 	text-decoration: none;
 }
-
-
 /* Responsive design */
 @media (max-width: 1024px) {
     .team-grid {
