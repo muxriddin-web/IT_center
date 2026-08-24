@@ -2,7 +2,7 @@ const express = require('express');
 const dotenv = require('dotenv');
 const path = require('path');
 const cors = require('cors');
-// const 
+
 
 // ENV
 dotenv.config(); // Atrof-muhit o'zgaruvchilari faollashtirildi
