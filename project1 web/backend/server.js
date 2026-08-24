@@ -4,9 +4,7 @@ const path = require('path');
 const cors = require('cors');
 // ENV
 dotenv.config(); // Atrof-muhit o'zgaruvchilari faollashtirildi
-
-const app = express(); // To'g'rilandi (Ochib qo'yildi)
-
+const app = express(); // To'g'rilandi Ochib qo'yildi
 // Middlewares
 app.use(cors());
 app.use(express.json());
