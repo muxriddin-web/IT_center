@@ -2,13 +2,8 @@ const express = require('express');
 const dotenv = require('dotenv');
 const path = require('path');
 const cors = require('cors');
-
-
 // ENV
 dotenv.config(); // Atrof-muhit o'zgaruvchilari faollashtirildi
-
-// MongoDB
-// connectDB(); // Vaqtincha o'chirilgan
 
 const app = express(); // To'g'rilandi (Ochib qo'yildi)
 
